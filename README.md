@@ -174,7 +174,6 @@ Companies building infrastructure for AI workloads.
 | [Decentriq](https://www.decentriq.com) | 🇨🇭 Switzerland | Confidential computing | Data clean rooms on confidential computing for regulated sectors |
 | [Edgeless Systems](https://www.edgeless.systems) | 🇩🇪 Germany | Confidential AI | Privatemode runs encrypted inference on confidential GPUs |
 | [Tune Insight](https://tuneinsight.com) | 🇨🇭 Switzerland | Federated analytics | EPFL spin-off, federated analytics across Swiss university hospitals |
-| [Cosmian](https://cosmian.com) | 🇫🇷 France | Confidential AI | Confidential VMs for running models on encrypted data |
 
 ### AI tools
 

@@ -955,14 +955,6 @@
       "country_code": "CH",
       "focus": "Federated analytics",
       "notes": "EPFL spin-off, federated analytics across Swiss university hospitals"
-    },
-    {
-      "name": "Cosmian",
-      "url": "https://cosmian.com",
-      "country": "France",
-      "country_code": "FR",
-      "focus": "Confidential AI",
-      "notes": "Confidential VMs for running models on encrypted data"
     }
   ],
   "tools": [
